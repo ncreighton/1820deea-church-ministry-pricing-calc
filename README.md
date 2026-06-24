@@ -1,2 +1,25 @@
-# 1820deea-church-ministry-pricing-calc
-The church ministry tool you'd build yourself — if you had the time.  Professional formatting tested across different screen sizes and printers. Fully editable: every field, color, and section customizable.  ## What's Included  - Church &amp; Ministry Pricing Calculator And Quote Builder — fully configured and ready to use - Fully editable: all fields,
+# Church & Ministry Pricing Calculator and Quote Builder
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard layout | Yes | Yes |
+| Premium components | - | Yes |
+| Custom styling | - | Yes |
+| Support included | - | Yes |
+| Regular updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/fZu28r12D9Mw2higUccZB3W)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/fZu28r12D9Mw2higUccZB3W)
+
